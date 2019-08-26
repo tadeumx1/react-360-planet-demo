@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "react-360-planet-demo",
+    "builds": [
+      {"src": "package.json", "use": "@now/static-build", "config": {"distDir": "build"}}
+    ]
+  }
